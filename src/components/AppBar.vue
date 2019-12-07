@@ -71,7 +71,7 @@ export default {
       { icon: 'mdi-note', text: 'Notes' },
       { icon: 'mdi-help-circle', text: 'Help' },
     ],
-    drawer: true
+    drawer: null
   })
 }
 </script>
