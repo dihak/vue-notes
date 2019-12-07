@@ -1,4 +1,10 @@
-# notes-app
+# Vue Notes
+
+Simple notes application
+
+## Demo
+
+[https://vue-notes-916e2.web.app/](https://vue-notes-916e2.web.app/)
 
 ## Project setup
 ```
